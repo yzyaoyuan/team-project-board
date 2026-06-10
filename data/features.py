@@ -3,9 +3,4 @@ FEATURES = [
     "展示 5 人小组成员与分工",
     "记录每位组员通过 Pull Request 完成的修改",
     "用于课堂演示 GitHub 小组协作流程",
-    "查看项目功能清单",
-    "查看 Issue/PR 进度追踪",
-    "查看版本更新日志",
-    "基于 PySide6 的桌面 GUI 界面",
-    "支持 Fork + Pull Request 协作开发模式",
 ]
